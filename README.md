@@ -3,4 +3,4 @@
 - 👀 I’m interested in Data Exploration and Web Development
 - 🌱 I’m currently learning R, Python, HTML, CSS, Java, Machine Learning, and Cloud Computing
 - 💞️ I’m looking to collaborate on Data Scientist
-- 📫 You can reach me on email: ssdevita4@gmail.com
+- 📫 You can reach me on email: sukma.sekar.devita-2021@ftmm.unair.ac.id
