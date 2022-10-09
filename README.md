@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Sukma Sekar Devita
+- 👋 I am Undergraduate Students at Airlangga University majoring Data Science Technology.
+- 👀 I’m interested in Data Exploration and Web Development
+- 🌱 I’m currently learning R, Python, HTML, CSS, Java, Machine Learning, and Cloud Computing
+- 💞️ I’m looking to collaborate on Data Scientist
+- 📫 You can reach me on email: ssdevita4@gmail.com
